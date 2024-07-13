@@ -641,7 +641,7 @@
 
 :root[uidensity="compact"]
 {
-    --tab-min-height: 32px !important;
+    --tab-min-height: 28px !important;
 }
 
 :root[uidensity="touch"]
